@@ -76,3 +76,13 @@ table th {
   margin: 0 auto;
 }
 
+@media only screen and (max-width: 600px) {
+.carousel-caption h2 {
+  font-size: smaller;
+}
+
+.carousel img {
+  height: 215px;
+}
+
+}
